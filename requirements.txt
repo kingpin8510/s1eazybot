@@ -19,7 +19,7 @@ google-auth-oauthlib
 gunicorn
 httpx
 langcodes
-lxml==4.9.3
+lxml==4.6.5
 motor
 mutagen
 markdown
